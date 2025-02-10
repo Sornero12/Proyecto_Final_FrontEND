@@ -10,6 +10,8 @@ import { LoginPage } from "./pages/LoginPage";
 import { TasksPage } from "./pages/TasksPage";
 import { TaskProvider } from "./context/tasksContext";
 
+//Hola, soy Mecho
+
 function App() {
   return (
     <AuthProvider>
